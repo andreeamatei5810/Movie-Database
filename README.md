@@ -1,2 +1,2 @@
 # Movie-Database
-Movie Database System
+A PL/SQL application that creates and manages a movie database.
